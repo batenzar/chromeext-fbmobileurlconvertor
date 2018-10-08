@@ -1,3 +1,5 @@
+This plugin is not necessary because you can switch from mobile site to desktop site by changing the url to www.
+
 # chromeext-fbmobileurlconvertor
 Simple Chrome extension to convert facebook mobile site url to desktop site url
 
